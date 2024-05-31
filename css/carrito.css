@@ -53,6 +53,7 @@ a {
   border-radius: 4px;
   font-size: 16px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 a:hover {
